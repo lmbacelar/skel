@@ -4,12 +4,10 @@ db/*.sqlite3
 log/
 !/log/.keep
 tmp/
-bin/
 .sass-cache/
 *.swp
 *.swo
 *~
 public/uploads/
 config/database.yml
-config/secrets.yml
 coverage/
